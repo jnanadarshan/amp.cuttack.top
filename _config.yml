@@ -34,3 +34,11 @@ kramdown:
 
 gems:
   - jekyll-paginate
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
