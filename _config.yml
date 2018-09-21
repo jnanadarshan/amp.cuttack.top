@@ -25,7 +25,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-126196218-1"
 
 # Build settings
 markdown: kramdown
