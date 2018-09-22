@@ -4,11 +4,64 @@
     <title>Awesome Site Title</title>
     <description>Awesome site description here
 </description>
-    <link>http://localhost:4000/amp/</link>
-    <atom:link href="http://localhost:4000/amp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Sep 2018 22:10:59 +0530</pubDate>
-    <lastBuildDate>Fri, 21 Sep 2018 22:10:59 +0530</lastBuildDate>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 22 Sep 2018 18:32:00 +0530</pubDate>
+    <lastBuildDate>Sat, 22 Sep 2018 18:32:00 +0530</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Powerful things you can do with the Markdown editor</title>
+        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+
+&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+
+&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;==highlight==&lt;/li&gt;
+  &lt;li&gt;*escaped characters*&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+
+&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
+    text-decoration: underline;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;//assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+
+&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+
+&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+
+&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+
+&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000//jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>My New Post</title>
@@ -29,8 +82,8 @@
 &lt;p&gt;Nulla mi risus, lobortis quis lectus vel, gravida eleifend lacus. Proin mattis odio elit, nec vehicula diam varius vitae. Nunc a ipsum at justo rhoncus mattis. Proin auctor lorem quis libero viverra aliquam. Suspendisse quis tristique sapien. Integer eu felis vel orci dignissim suscipit pharetra vitae nisl. Ut viverra sed enim quis pretium. Etiam auctor a ante sed pharetra.&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/amp/news/odisha/2016/03/13/my-new-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/amp/news/odisha/2016/03/13/my-new-post.html</guid>
+        <link>http://localhost:4000//news/odisha/2016/03/13/my-new-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/odisha/2016/03/13/my-new-post.html</guid>
         
         
         <category>News</category>
@@ -68,8 +121,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 08 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/amp/2016/03/08/example-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/amp/2016/03/08/example-post.html</guid>
+        <link>http://localhost:4000//2016/03/08/example-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/03/08/example-post.html</guid>
         
         
       </item>
