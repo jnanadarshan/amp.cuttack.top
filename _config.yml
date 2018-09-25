@@ -8,7 +8,6 @@
 # Site settings
 title: Cuttack.First.
 email: web@cuttack.top
-name: Cuttack.First.
 description: >
   Awesome site description here
 logo: "/assets/images/logo.jpg"
@@ -17,12 +16,15 @@ url: https://amp.cuttack.top/ # the base hostname & protocol for your site
 enforce_ssl: amp.cuttack.top
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Admin'
-bio: >
+
+#Authors
+authors:
+  name: 'Admin'
+  bio: >
   The admins of the website.
-author_image: "/assets/images/author-thumb-admin-200x200.jpg"
-twitter_username: cuttackfirst
-github_username:  cuttackfirst
+  author_image: "/assets/images/author-thumb-admin-200x200.jpg"
+  twitter_username: cuttackfirst
+  instagram_username:  cuttackfirst
 
 # Google Analytics
 analytics_id: "UA-126196218-1"
