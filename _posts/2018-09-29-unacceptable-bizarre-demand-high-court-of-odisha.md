@@ -14,17 +14,17 @@ description: "Absolutely unacceptable and bizarre."
   type="slides"
   autoplay
   delay="2000">
-  <amp-img src="/img/image1.jpg"
+  <amp-img src="https://ampbyexample.com/components/amp-carousel/img/image1.jpg"
     width="400"
     height="300"
     layout="responsive"
     alt="a sample image"></amp-img>
-  <amp-img src="/img/image2.jpg"
+  <amp-img src="https://ampbyexample.com/components/amp-carousel/img/image2.jpg"
     width="400"
     height="300"
     layout="responsive"
     alt="another sample image"></amp-img>
-  <amp-img src="/img/image3.jpg"
+  <amp-img src="https://ampbyexample.com/components/amp-carousel/img/image3.jpg"
     width="400"
     height="300"
     layout="responsive"
