@@ -13,7 +13,7 @@ description: >
 logo: "/assets/images/logo.jpg"
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://amp.cuttack.top/ # the base hostname & protocol for your site
-canonical_url: https://cuttack.top
+amp_canonical: https://cuttack.top
 enforce_ssl: amp.cuttack.top
 paginate:	5 # The number of posts to show per page on your homepage
 
